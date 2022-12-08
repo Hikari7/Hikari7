@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning Redux
 - 🐥 Fun fact: I've done the #100DaysOfCode challenge twice! Check on my tech journey from my [Twitter](https://twitter.com/hk_Vancouver) account.
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=hk_Vancouver)](https://github.com/gazf/github-readme-twitter)
-
 
 <h3 align="left">Languages & Other Tools:</h3>
 <p align="left">
