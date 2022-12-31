@@ -2,11 +2,11 @@
 <h3 align="center">✨A front-end developer✨</h3>
 <p align="center">I've been learning to code and focusing on front-end development. <br>I would love to accept internship, apprenticeship or entry-level front-end roles!</p>
 
-- 📫 How to reach me h.kobe712@gmail.com
+- 📫 How to reach me: h.kobe712@gmail.com
+- 👩‍💻 All of my projects are available on my [portfolio website](https://hikari-kobe-h39qmgtde-hikari7.vercel.app/)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/hikari-kobe-106054242/)
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently learning React/Redux
 - 🐥 Fun fact: I've done the #100DaysOfCode challenge twice! Check on my tech journey from my [Twitter](https://twitter.com/hk_Vancouver) account.
-
 
 <h3 align="left">Languages & Other Tools:</h3>
 <p align="left">
