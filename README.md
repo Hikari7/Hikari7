@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React.js, TypeScript, Next.js<br>🌱 I’m currently learning React Native<br>💬 Ask me about CSS, React.js <br>⚡ Fun fact: Check on my tech journey from my ["X"](https://link-url-here.org](https://twitter.com/hk_Vancouver)) account!
+🔭 I’m currently working on React.js, TypeScript, Next.js<br>🌱 I’m currently learning React Native<br>💬 Ask me about CSS, React.js <br>⚡ Fun fact: Check on my tech journey from my ["X"](https://twitter.com/hk_Vancouver) account!
 
 
 ## 🌐 Socials:
